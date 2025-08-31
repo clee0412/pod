@@ -1,0 +1,4 @@
+java/ar/edu/itba/pod/concurrency/threadSafety/e1/GenericServiceConcurrencyTest.class
+ar/edu/itba/pod/concurrency/threadSafety/locks/CompletableFutureTest.class
+java/ar/edu/itba/pod/concurrency/threadSafety/locks/LongRunningActionTest.class
+ar/edu/itba/pod/concurrency/threadSafety/locks/ReentrantReadWriteLockExampleTest.class
