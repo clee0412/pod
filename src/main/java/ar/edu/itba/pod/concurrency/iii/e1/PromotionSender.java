@@ -46,6 +46,7 @@ public class PromotionSender {
             notifyCustomers(promotion);
         }
         notifyMarketing("Hoy se publicito un descuento del 30%");
+
     }
 
     private static void notifyPromotionsParallel(List<String> promotions) {
